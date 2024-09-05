@@ -65,7 +65,7 @@
     background: white;
     flex-wrap: wrap;
     width: 100%;
-    padding: 50px 50px;
+    padding: 20px 20px;
     
   }
   .footer-container-div h2{
@@ -85,7 +85,7 @@
     display: flex;
     flex-wrap: wrap;
     margin-top: 20px;
-    gap: 30px;
+    /* gap: 30px; */
   }
   
   .map iframe {
